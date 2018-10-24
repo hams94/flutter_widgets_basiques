@@ -1,4 +1,4 @@
-# widgets_app
+# flutter_widgets_app
 
 widgets de base
 
